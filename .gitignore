@@ -29,3 +29,6 @@ bin/
 .DS_Store
 ##Jsons
 .json
+##IDE
+.idea
+*.iml

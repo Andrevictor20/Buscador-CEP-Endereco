@@ -27,18 +27,6 @@ O aplicativo oferece duas funcionalidades principais:
 - Java 17 ou superior instalado
 - Conexão com a internet
 
-### Executando o Programa
-
-1. Compile os arquivos Java:
-```bash
-javac src/*.java
-```
-
-2. Execute o programa:
-```bash
-java -cp src Main
-```
-
 ### Exemplos de Uso
 
 #### Buscando Endereço por CEP
