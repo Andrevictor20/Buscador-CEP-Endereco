@@ -28,8 +28,6 @@ public class ConsultaEndereco {
                     logradouroEncoded +
                     "/json/");
 
-            System.out.println("URL de consulta: " + endereco); // Para debug
-
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(endereco)
                     .build();
