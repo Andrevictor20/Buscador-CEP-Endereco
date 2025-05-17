@@ -30,5 +30,5 @@ bin/
 ##Jsons
 .json
 ##IDE
-.idea
+.idea/
 *.iml
