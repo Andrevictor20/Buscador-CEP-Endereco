@@ -10,11 +10,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/dependecias" />
+          <root url="file://$MODULE_DIR$/dependencias" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/dependecias" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/dependencias" recursive="false" />
       </library>
     </orderEntry>
   </component>
