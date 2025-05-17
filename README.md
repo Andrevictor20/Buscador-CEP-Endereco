@@ -32,14 +32,14 @@ O aplicativo oferece duas funcionalidades principais:
 Siga os passos abaixo para compilar e executar o projeto:
 ### Linux
 
-```bash
+```
 git clone https://github.com/Andrevictor20/Buscador-CEP-Endereco.git
 cd Buscador-CEP-Endereco/
 javac -cp "dependencias/gson-2.10.1.jar" src/*.java -d .
 java -cp ".:dependencias/gson-2.10.1.jar" Main
 ```
 ### Windows
-```bash
+```
 git clone https://github.com/Andrevictor20/Buscador-CEP-Endereco.git
 cd Buscador-CEP-Endereco/
 javac -cp "dependencias/gson-2.10.1.jar" src/*.java -d . 
